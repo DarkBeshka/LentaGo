@@ -1,0 +1,21 @@
+html{
+    font-size: 16px;
+}
+.after_punk{
+    background-color: #0B0E11;
+}
+.punk_photo{
+    background: url("../пунк2.jpg") no-repeat;
+    height: 854px;
+    background-size: 100%;
+    margin-top: -8px;
+}
+.schedule{
+    background-color: #F5FBFF;
+    margin: 0 40px 0 40px;
+    border-radius: 60px;
+    transform: translateY(-300px);
+    padding-top: 30px;
+    padding-bottom: 50px;
+    height: 2550px;
+}
